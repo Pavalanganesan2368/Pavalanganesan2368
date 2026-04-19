@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Pavalan G
+# 👋 <h1 align="center">Hi, I'm Pavalan G<h1>
 
-🎓 Computer Science Student (3rd Year)
+🎓 <h3 align="center">Computer Science Student (3rd Year)
 💻 Aspiring **Backend Developer**
-🚀 Passionate about building real-world web applications
+🚀 Passionate about building real-world web applications</h3>
 
 ---
 
