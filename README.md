@@ -1,6 +1,7 @@
 #  <h1 align="center">Hi 👋, I'm Pavalan G<h1>
 <h3 align="center">🎓 Computer Science Student | Aspiring Backend Developer | Passionate about building real-world web applications</h3>
-## 🧑‍💻 About Me
+
+### 🧑‍💻 About Me
 
 * 🌱 Currently learning **MERN Stack & Python**
 * 🔧 Interested in **Backend Development & APIs**
@@ -9,7 +10,7 @@
 
 ---
 
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 ### 💻 Languages
 
